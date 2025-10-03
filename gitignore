@@ -1,0 +1,5 @@
+.env
+*.log
+cache/
+vendor/
+.DS_Store
